@@ -12,3 +12,5 @@ The unique ID is described as follows.
     Applications can store the value returned by this property 
     to recall or track the status of a specific device in the future
     ```` 
+    
+The idea is that this improvements get into OF's core code so this addon does not need to exist anymore.
